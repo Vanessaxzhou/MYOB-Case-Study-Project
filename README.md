@@ -6,4 +6,4 @@
 
 - The reports of the MYOB is in the Reports.pdf, which covers different statements of this company
 
-- The system file is the 
+- The system file is in the 204-HD Shoes Pty Ltd.myo
